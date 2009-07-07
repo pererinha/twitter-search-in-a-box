@@ -1,0 +1,39 @@
+#list{
+	width:400px;
+	overflow:hidden;
+	padding:0;
+}
+#list li{
+	border:0; margin:0; padding:0; list-style:none;
+}
+	#list li{
+		background-color:#F5F5F5;
+		border:solid 1px #DEDEDE;
+		font-size:11px;
+		line-height:12px;
+		height:70px;
+		list-style:none;
+	}
+	#list li div{
+			padding:5px;
+			clear:both;
+		}
+		#list a{
+			color:#000000;
+			margin-bottom:
+		}
+		#list .news-title{
+			display:block;
+			font-weight:bold;
+			margin-bottom:4px;
+			font-size:11px;
+		}
+		#list .news-text{
+			display:block;
+			font-size:11px;
+			color:#666666;
+		}
+		#list img{
+			float:left;
+			margin-right:14px;
+		}
